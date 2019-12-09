@@ -1,4 +1,5 @@
 #(1) example01
+#import tensorflow
 import tensorflow as tf
 
 #make  constant
