@@ -16,7 +16,7 @@
 8. [Learning from Examples(2)](https://blog.naver.com/jaeyoon_95/221171736617)
 9. [Learning from Examples(3)](https://blog.naver.com/jaeyoon_95/221172287421)
 10. [Learning from Examples(4)](https://blog.naver.com/jaeyoon_95/221175419928)
-11. [https://blog.naver.com/jaeyoon_95/221175597965](https://blog.naver.com/jaeyoon_95/221175597965)
+11. [Learning Probabilistic Models](https://blog.naver.com/jaeyoon_95/221175597965)
 12. [Reinforcement Learning](https://blog.naver.com/jaeyoon_95/221175642535)
 
 - - -
