@@ -43,7 +43,7 @@ conda install Pillow==5.1.0
 5. [인공 신경망](https://blog.naver.com/jaeyoon_95/221377330087)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/example03.py)
 6. [심층 신경망](https://blog.naver.com/jaeyoon_95/221381988380)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/example04.py)
 7. [모델의 재사용](https://blog.naver.com/jaeyoon_95/221396403592)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/example05.py)
-8. [텐서보드](https://blog.naver.com/jaeyoon_95/221410816681)
+8. [텐서보드](https://blog.naver.com/jaeyoon_95/221410816681)  [[코드]]((https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/example06.py))
 9. [MNIST](https://blog.naver.com/jaeyoon_95/221410977141)
 10. [드롭아웃](https://blog.naver.com/jaeyoon_95/221410991555)
 11. [CNN](https://blog.naver.com/jaeyoon_95/221441121069)
