@@ -9,5 +9,7 @@
 1. [Artificial Intelligence](https://blog.naver.com/jaeyoon_95/221094713247)
 2. [Intelligent Agents](https://blog.naver.com/jaeyoon_95/221096281001)
 3. [Solving Problems by Searching(1)](https://blog.naver.com/jaeyoon_95/221104132692)
-4. [Solving Problems by Searching(2) ](https://blog.naver.com/jaeyoon_95/221120616422)
-
+4. [Solving Problems by Searching(2)](https://blog.naver.com/jaeyoon_95/221120616422)
+5. [Beyond Classical Search](https://blog.naver.com/jaeyoon_95/221120976814)
+6. [Adversarial Search](https://blog.naver.com/jaeyoon_95/221122539773)
+7. [Learning from Examples(1)](https://blog.naver.com/jaeyoon_95/221164683212)
