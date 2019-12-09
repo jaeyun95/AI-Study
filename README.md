@@ -20,7 +20,7 @@
 12. [Reinforcement Learning](https://blog.naver.com/jaeyoon_95/221175642535)
 
 - - -
-## 텐서플로우
+## Tensorflow
 ##### 참고도서: [골빈해커의 3분 딥러닝 텐서플로우맛](https://book.naver.com/bookdb/book_detail.nhn?bid=12556028)
 ```sh
 #version python >= 3.6
@@ -51,7 +51,7 @@ conda install Pillow==5.1.0
 13. [GAN](https://blog.naver.com/jaeyoon_95/221709968464)
 
 - - -
-## 파이토치
+## Pytorch
 ```sh
 #version python >= 3.6
 conda create -n pytorch python=3.6
