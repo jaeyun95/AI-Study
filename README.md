@@ -1,11 +1,11 @@
 # AI Study
-AI Basic Study
+인공지능 기초 공부(AI Basic Study)
 
 자세한 설명
 ▶[jaeyun's blog](https://blog.naver.com/jaeyoon_95)
 
 - - -
-## AI Basic
+## 인공지능 기초(AI Basic)
 1. [Artificial Intelligence](https://blog.naver.com/jaeyoon_95/221094713247)
 2. [Intelligent Agents](https://blog.naver.com/jaeyoon_95/221096281001)
 3. [Solving Problems by Searching(1)](https://blog.naver.com/jaeyoon_95/221104132692)
@@ -20,7 +20,7 @@ AI Basic Study
 12. [Reinforcement Learning](https://blog.naver.com/jaeyoon_95/221175642535)
 
 - - -
-## Tensorflow
+## 텐서플로우(Tensorflow)
 ##### 참고도서: [골빈해커의 3분 딥러닝 텐서플로우맛](https://book.naver.com/bookdb/book_detail.nhn?bid=12556028)
 ```sh
 #version python >= 3.6
@@ -51,7 +51,7 @@ conda install Pillow==5.1.0
 13. [GAN](https://blog.naver.com/jaeyoon_95/221709968464)
 
 - - -
-## Pytorch
+## 파이토치(Pytorch)
 ```sh
 #version python >= 3.6
 conda create -n pytorch python=3.6
