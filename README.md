@@ -21,7 +21,7 @@
 
 - - -
 ## 텐서플로우
-##### 참고도서: (골빈해커의 3분 딥러닝 텐서플로우맛)[https://book.naver.com/bookdb/book_detail.nhn?bid=12556028]
+##### 참고도서: [골빈해커의 3분 딥러닝 텐서플로우맛](https://book.naver.com/bookdb/book_detail.nhn?bid=12556028)
 1. [딥러닝 기본 및 텐서플로우 소개](https://blog.naver.com/jaeyoon_95/221373731328)
 2. [텐서플로우 설치](https://blog.naver.com/jaeyoon_95/221374199845)
 3. [텐서플로우 기본(1)](https://blog.naver.com/jaeyoon_95/221374793748)
