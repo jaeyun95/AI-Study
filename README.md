@@ -18,3 +18,24 @@
 10. [Learning from Examples(4)](https://blog.naver.com/jaeyoon_95/221175419928)
 11. [https://blog.naver.com/jaeyoon_95/221175597965](https://blog.naver.com/jaeyoon_95/221175597965)
 12. [Reinforcement Learning](https://blog.naver.com/jaeyoon_95/221175642535)
+
+- - -
+## 텐서플로우
+### 참고도서: (골빈해커의 3분 딥러닝 텐서플로우맛)[https://book.naver.com/bookdb/book_detail.nhn?bid=12556028]
+1. [딥러닝 기본 및 텐서플로우 소개](https://blog.naver.com/jaeyoon_95/221373731328)
+2. [텐서플로우 설치](https://blog.naver.com/jaeyoon_95/221374199845)
+3. [텐서플로우 기본(1)](https://blog.naver.com/jaeyoon_95/221374793748)
+4. [텐서플로우 기본(2)](https://blog.naver.com/jaeyoon_95/221376043255)
+5. [인공 신경망](https://blog.naver.com/jaeyoon_95/221377330087)
+6. [심층 신경망](https://blog.naver.com/jaeyoon_95/221381988380)
+7. [모델의 재사용](https://blog.naver.com/jaeyoon_95/221396403592)
+8. [텐서보드](https://blog.naver.com/jaeyoon_95/221410816681)
+9. [MNIST](https://blog.naver.com/jaeyoon_95/221410977141)
+10. [드롭아웃](https://blog.naver.com/jaeyoon_95/221410991555)
+11. [CNN](https://blog.naver.com/jaeyoon_95/221441121069)
+12. [Autoencoder](https://blog.naver.com/jaeyoon_95/221646882133)
+13. [GAN](https://blog.naver.com/jaeyoon_95/221709968464)
+
+- - -
+## 파이토치
+
