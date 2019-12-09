@@ -26,15 +26,15 @@
 #version python >= 3.6
 conda create -n tensorflow python=3.6
 #gpu version tensorflow-gpu >= 1.1.0
-pip install tensorflow-gpu==1.8.0
+conda install tensorflow-gpu==1.8.0
 #no gpu version tensorflow >= 1.8.0
-pip install tensorflow==1.8.0
+conda install tensorflow==1.8.0
 #version numpy >= 1.14.3
-pip install numpy==1.14.3
+conda install numpy==1.14.3
 #version matplotlib >= 2.2.2
-pip install matplotlib
+conda install matplotlib
 #version pillow >= 5.1
-pip install Pillow==5.1.0
+conda install Pillow==5.1.0
 ```
 1. [딥러닝 기본 및 텐서플로우 소개](https://blog.naver.com/jaeyoon_95/221373731328)
 2. [텐서플로우 설치](https://blog.naver.com/jaeyoon_95/221374199845)
@@ -52,4 +52,10 @@ pip install Pillow==5.1.0
 
 - - -
 ## 파이토치
+```sh
+#version python >= 3.6
+conda create -n pytorch python=3.6
+#gpu version pytorch >= 1.0
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
+```
