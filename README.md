@@ -59,3 +59,4 @@ conda create -n pytorch python=3.6
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
 ```
+1. [파이토치 소개 및 설치](https://blog.naver.com/jaeyoon_95/221374554890)
