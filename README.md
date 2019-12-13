@@ -20,6 +20,17 @@
 12. [Reinforcement Learning](https://blog.naver.com/jaeyoon_95/221175642535)
 
 - - -
+## 기본 코드(Python)
+```sh
+#version python >= 3.6
+conda create -n pytorch python=3.6
+conda install numpy==1.14.3
+conda install matplotlib
+
+```
+
+
+- - -
 ## 텐서플로우(Tensorflow)
 ##### 참고도서: [골빈해커의 3분 딥러닝 텐서플로우맛](https://book.naver.com/bookdb/book_detail.nhn?bid=12556028)
 ```sh
