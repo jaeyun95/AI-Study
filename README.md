@@ -5,7 +5,7 @@
 ▶[jaeyun's blog](https://blog.naver.com/jaeyoon_95)
 
 - - -
-## 인공지능 기초 이론(AI Basic Theory)
+## 인공지능 기초 이론1(AI Basic Theory1)
 1. [Artificial Intelligence](https://blog.naver.com/jaeyoon_95/221094713247)
 2. [Intelligent Agents](https://blog.naver.com/jaeyoon_95/221096281001)
 3. [Solving Problems by Searching(1)](https://blog.naver.com/jaeyoon_95/221104132692)
@@ -20,7 +20,19 @@
 12. [Reinforcement Learning](https://blog.naver.com/jaeyoon_95/221175642535)
 
 - - -
+## 인공지능 기초 이론2(AI Basic Theory2)
+##### 참고도서: [Deep Learning with Tensorflow](https://book.naver.com/bookdb/book_detail.nhn?bid=12040937)
+1. [Getting Started with Deep Learning](https://blog.naver.com/jaeyoon_95/221184922847)
+2. [First Look at TensorFlow(1)](https://blog.naver.com/jaeyoon_95/221185040358)
+3. [First Look at TensorFlow(2)](https://blog.naver.com/jaeyoon_95/221185072353)
+4. [Using TensorFlow on a Feed-Forward Neural Network](https://blog.naver.com/jaeyoon_95/221185139756)
+5. [TensorFlow on a Convolutional Neural Network](https://blog.naver.com/jaeyoon_95/221187681678)
+6. [Optimizing tensorflow autoencoder](https://blog.naver.com/jaeyoon_95/221187708527)
+7. [Recurrent Neural Networks](https://blog.naver.com/jaeyoon_95/221189507772)
+
+- - -
 ## 인공지능 기초 코드(AI Basic Code with Python)
+##### 참고도서: [밑바닥부터 시작하는 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=11492334)
 ```sh
 #version python >= 3.6
 conda create -n pytorch python=3.6
@@ -28,7 +40,7 @@ conda install numpy==1.14.3
 conda install matplotlib
 
 ```
-
+2. [Neural Network(1)](https://blog.naver.com/jaeyoon_95/221196562605)
 
 - - -
 ## 텐서플로우(Tensorflow)
