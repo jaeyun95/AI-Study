@@ -40,7 +40,7 @@ conda install numpy==1.14.3
 conda install matplotlib
 
 ```
-2. [Neural Network(1)](https://blog.naver.com/jaeyoon_95/221196562605)
+2. [Neural Network(1)](https://blog.naver.com/jaeyoon_95/221196562605)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/basic/example02.py)
 
 - - -
 ## 텐서플로우(Tensorflow)
