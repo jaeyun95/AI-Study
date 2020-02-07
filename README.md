@@ -44,7 +44,7 @@ conda install matplotlib
 
 - - -
 ## 머신러닝 기초 코드(Machine Learning with Python)
-##### 참고도서: [밑바닥부터 시작하는 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=15048210)
+##### 참고도서: [Introductioln to Machine Learning with Python](https://book.naver.com/bookdb/book_detail.nhn?bid=15048210)
 ```sh
 #version python >= 3.6
 conda create -n ml python=3.6
