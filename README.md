@@ -20,7 +20,7 @@
 12. [Reinforcement Learning](https://blog.naver.com/jaeyoon_95/221175642535)
 
 - - -
-## 인공지능 기초 이론2(AI Basic Theory2)
+## 인공지능 기초 이론2(Deep Learning Basic Theory2)
 ##### 참고도서: [Deep Learning with Tensorflow](https://book.naver.com/bookdb/book_detail.nhn?bid=12040937)
 1. [Getting Started with Deep Learning](https://blog.naver.com/jaeyoon_95/221184922847)
 2. [First Look at TensorFlow(1)](https://blog.naver.com/jaeyoon_95/221185040358)
