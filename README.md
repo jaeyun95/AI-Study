@@ -49,10 +49,12 @@ conda install matplotlib
 #version python >= 3.6
 conda create -n ml python=3.6
 conda install numpy scipy matplotlib ipython scikit-learn pandas pillow
+pip install mglearn
 
 ```
 1. [머신 러닝이란?](https://blog.naver.com/jaeyoon_95/221798377607)
 2. [머신 라이브러리 설치](https://blog.naver.com/jaeyoon_95/221798580408)
+3. [지도학습1](https://blog.naver.com/jaeyoon_95/221799925439)
 
 - - -
 ## 텐서플로우(Tensorflow)
