@@ -55,7 +55,7 @@ pip install mglearn
 1. [머신 러닝이란?](https://blog.naver.com/jaeyoon_95/221798377607)
 2. [머신 라이브러리 설치](https://blog.naver.com/jaeyoon_95/221798580408)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/machinelearning/example01.py)
 3. [지도학습1](https://blog.naver.com/jaeyoon_95/221799925439)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/machinelearning/example02.py)
-3. [지도학습2](https://blog.naver.com/jaeyoon_95/221800027689)
+3. [지도학습2](https://blog.naver.com/jaeyoon_95/221800027689)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/machinelearning/example03.py)
 
 - - -
 ## 텐서플로우(Tensorflow)
