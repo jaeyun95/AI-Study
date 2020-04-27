@@ -22,7 +22,6 @@ print(x5)
 list_example = [[1,2,3],[4,5,6]]
 list_to_tensor = torch.Tensor(list_example)
 print(list_to_tensor)
-
 # turn numpy array into tensor
 numpy_example = np.array([[1,2,3],[4,5,6]])
 numpy_to_tensor = torch.Tensor(numpy_example)
@@ -32,7 +31,6 @@ print(numpy_to_tensor)
 # turn tensor into list
 tensor_to_list = list_to_tensor.tolist()
 print(tensor_to_list)
-
 # turn tensor into numpy array
 tensor_to_numpy = numpy_to_tensor.numpy()
 print(tensor_to_numpy)
