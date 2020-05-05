@@ -99,3 +99,5 @@ conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
 
 ```
 1. [파이토치 소개 및 설치](https://blog.naver.com/jaeyoon_95/221374554890)
+2. [텐서의 생성](https://blog.naver.com/jaeyoon_95/221945112563)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/1.Tensor/example01.py)
+3. [텐서의 연산](https://blog.naver.com/jaeyoon_95/221946984887)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/1.Tensor/example02.py)
