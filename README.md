@@ -96,8 +96,12 @@ conda install Pillow==5.1.0
 conda create -n pytorch python=3.6
 #gpu version pytorch >= 1.0
 conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+#version matplotlib >= 2.2.2
+conda install matplotlib
+#version numpy >= 1.14.3
+conda install numpy==1.14.3
 
 ```
 1. [파이토치 소개 및 설치](https://blog.naver.com/jaeyoon_95/221374554890)
-2. [텐서의 생성](https://blog.naver.com/jaeyoon_95/221945112563)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/1.Tensor/example01.py)
-3. [텐서의 연산](https://blog.naver.com/jaeyoon_95/221946984887)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/1.Tensor/example02.py)
+2. [텐서의 생성](https://blog.naver.com/jaeyoon_95/221945112563)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example01.py)
+3. [텐서의 연산](https://blog.naver.com/jaeyoon_95/221946984887)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example02.py)
