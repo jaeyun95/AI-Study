@@ -1,4 +1,4 @@
-#(10) example10
+#(11) example11
 #import tensorflow and numpy
 import tensorflow as tf
 import numpy as np
@@ -72,6 +72,7 @@ total_batch = int(mnist.train.num_examples/batch_size)
 for epoch in range(total_epoch):
     for i in range(total_batch):
         batch_xs, batch_ys = mnist.train.next_batch(batch_size)
+		#add noise
         noise = np.random.normal(size=(batch_size, n_noise))
         _, loss_val_Discriminator = sess.run([train_Discriminator, loss_Discriminator], feed_dict={X: batch_xs, Z: noise})
         _, loss_val_Generator = sess.run([train_Generator, loss_Generator], feed_dict={Z: noise})
