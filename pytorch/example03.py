@@ -90,3 +90,14 @@ for epoch in range(epochs):
 model.eval()
 test_loss_before = criterion(torch.squeeze(model(x_test)),y_test)
 print('After Training, test loss is {}'.format(test_loss_before.item()))
+
+#######################
+## saving the weight ##
+#######################
+## save
+torch.save(model.state_dict(), './model.pt')
+
+## load
+new_model = NeuralNetwork(2,5)
+new_model.load_state_dict(torch.load('./model.pt'))
+new_model.eval()
