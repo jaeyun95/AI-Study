@@ -14,6 +14,18 @@ import torch.nn.functional as F
 x_train, y_train = make_blobs(n_samples = 80, n_features = 2, centers=[[1,1],[-1,-1],[1,-1],[-1,1]],shuffle = True, cluster_std = 0.3)
 x_test, y_test = make_blobs(n_samples = 20, n_features = 2, centers=[[1,1],[-1,-1],[1,-1],[-1,1]],shuffle = True, cluster_std = 0.3)
 
+## change from 4 label data to 2 label data
+def new_label(y_, from_, to_):
+    y = np.copy(y_)
+    for f in from_:
+        y[y_ == f] = to_
+    return y
+
+y_train = new_label(y_train, [0,1], 0)
+y_train = new_label(y_train, [2,3], 1)
+y_test = new_label(y_test, [0,1], 0)
+y_test = new_label(y_test, [2,3], 1)
+
 ## convert numpy format to tensor format
 x_train = torch.FloatTensor(x_train)
 x_test = torch.FloatTensor(x_test)
@@ -32,10 +44,6 @@ def vis_data(x, y = None, c = 'r'):
             plt.plot(x_[0], x_[1], c+'o')
         elif y_ == 1:
             plt.plot(x_[0], x_[1], c+'+')
-        elif y_ == 2:
-            plt.plot(x_[0], x_[1], c+'x')
-        elif y_ == 3:
-            plt.plot(x_[0], x_[1], c+'^')
 
 #check data graph
 '''
@@ -57,7 +65,6 @@ class NeuralNetwork(torch.nn.Module):
         self.relu = torch.nn.ReLU()
         self.linear_2 = torch.nn.Linear(self.hidden_size, 1)
         self.sigmoid = torch.nn.Sigmoid()
-
     def forward(self, input_tensor):
         linear1 = self.linear_1(input_tensor)
         relu = self.relu(linear1)
@@ -71,7 +78,7 @@ class NeuralNetwork(torch.nn.Module):
 model = NeuralNetwork(2, 5)
 learning_rate = 0.03
 criterion = torch.nn.BCELoss()
-epochs = 10000
+epochs = 2000
 optimizer = torch.optim.SGD(model.parameters(), lr = learning_rate)
 
 model.eval()
@@ -95,9 +102,9 @@ print('After Training, test loss is {}'.format(test_loss_before.item()))
 ## saving the weight ##
 #######################
 ## save
-torch.save(model.state_dict(), './model.pt')
+torch.save(model.state_dict(), 'model.pt')
 
 ## load
 new_model = NeuralNetwork(2,5)
-new_model.load_state_dict(torch.load('./model.pt'))
+new_model.load_state_dict(torch.load('model.pt'))
 new_model.eval()
