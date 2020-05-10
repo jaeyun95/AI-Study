@@ -88,7 +88,7 @@ conda install Pillow==5.1.0
 11. [CNN](https://blog.naver.com/jaeyoon_95/221441121069)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/example09.py)
 12. [Autoencoder](https://blog.naver.com/jaeyoon_95/221646882133)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/example10.py)
 13. [GAN](https://blog.naver.com/jaeyoon_95/221709968464)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/example11.py)
-14. [RNN](https://blog.naver.com/jaeyoon_95/221952661160)
+14. [RNN](https://blog.naver.com/jaeyoon_95/221952661160)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/example12.py)
 
 - - -
 ## 파이토치(Pytorch)
