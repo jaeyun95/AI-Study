@@ -14,6 +14,13 @@ import torch.nn.functional as F
 x_train, y_train = make_blobs(n_samples = 80, n_features = 2, centers=[[1,1],[-1,-1],[1,-1],[-1,1]],shuffle = True, cluster_std = 0.3)
 x_test, y_test = make_blobs(n_samples = 20, n_features = 2, centers=[[1,1],[-1,-1],[1,-1],[-1,1]],shuffle = True, cluster_std = 0.3)
 
+## convert numpy format to tensor format
+x_train = torch.FloatTensor(x_train)
+x_test = torch.FloatTensor(x_test)
+y_train = torch.FloatTensor(y_train)
+y_test = torch.FloatTensor(y_test)
+
+
 ## visual function
 def vis_data(x, y = None, c = 'r'):
     if y is None:
@@ -34,14 +41,8 @@ def vis_data(x, y = None, c = 'r'):
 '''
 plt.figure()
 vis_data(x_train, y_train, c = 'r')
-plt.show
+plt.show()
 '''
-
-## convert numpy format to tensor format
-x_train = torch.FloatTensor(x_train)
-x_test = torch.FloatTensor(x_test)
-y_train = torch.FloatTensor(y_train)
-y_test = torch.FloatTensor(y_test)
 
 #######################
 ## defining NN class ##
