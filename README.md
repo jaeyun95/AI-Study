@@ -92,6 +92,7 @@ conda install Pillow==5.1.0
 
 - - -
 ## 파이토치(Pytorch)
+##### 참고도서: [펭귄브로의 3분 딥러닝 파이토치맛](https://book.naver.com/bookdb/book_detail.nhn?bid=15559613)
 ```sh
 #version python >= 3.6
 conda create -n pytorch python=3.6
