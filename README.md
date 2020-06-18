@@ -109,3 +109,4 @@ conda install numpy==1.14.3
 4. [인공 신경망](https://blog.naver.com/jaeyoon_95/221955294397)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example03.py)
 5. [심층 신경망](https://blog.naver.com/jaeyoon_95/221956289157)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example04.py)
 6. [합성곱 신경망](https://blog.naver.com/jaeyoon_95/221994541157)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example05.py)
+7. [깊은 합성곱 신경망](https://blog.naver.com/jaeyoon_95/222004350849)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example06.py)
