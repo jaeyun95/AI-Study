@@ -61,6 +61,7 @@ pip install mglearn
 - - -
 ## 텐서플로우(Tensorflow)
 ##### 참고도서: [골빈해커의 3분 딥러닝 텐서플로우맛](https://book.naver.com/bookdb/book_detail.nhn?bid=12556028)
+##### GitHub: [저자 GitHub](https://github.com/golbin/TensorFlow-Tutorials)
 ```sh
 #version python >= 3.6
 conda create -n tensorflow python=3.6
@@ -93,6 +94,7 @@ conda install Pillow==5.1.0
 - - -
 ## 파이토치(Pytorch)
 ##### 참고도서: [펭귄브로의 3분 딥러닝 파이토치맛](https://book.naver.com/bookdb/book_detail.nhn?bid=15559613)
+##### GitHub: [저자 GitHub](https://github.com/keon/3-min-pytorch)
 ```sh
 #version python >= 3.6
 conda create -n pytorch python=3.6
@@ -110,3 +112,4 @@ conda install numpy==1.14.3
 5. [심층 신경망](https://blog.naver.com/jaeyoon_95/221956289157)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example04.py)
 6. [합성곱 신경망](https://blog.naver.com/jaeyoon_95/221994541157)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example05.py)
 7. [깊은 합성곱 신경망](https://blog.naver.com/jaeyoon_95/222004350849)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example06.py)
+7. [오토인코더](https://blog.naver.com/jaeyoon_95/222061658777)  [[코드]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/example07.py)
