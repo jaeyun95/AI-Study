@@ -10,7 +10,7 @@ Artificial Intelligence Study. Basic Theory and Code.
 ## 인공지능 기본 지식(AI Basic Knowledge)   
 Basic Knowledge of AI such as "activation function", "loss function", "optimizer" and so on.   
 This deal with "why we use these?" as well as "kind of these".   
-More details [click here](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/README.md)
+More details [click here](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/README.md)
 
 - - -
 ## 인공지능 기초 이론1(AI Basic Theory1)   
