@@ -10,7 +10,7 @@ Artificial Intelligence Study. Basic Theory and Code.
 ## 인공지능 기본 지식(AI Basic Knowledge)   
 Basic Knowledge of AI such as "activation function", "loss function", "optimizer" and so on.   
 This deal with "why we use these?" as well as "kind of these".   
-More details [click here](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/README.md)
+More details [[click here]](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/README.md)
 
 - - -
 ## 인공지능 기초 이론1(AI Basic Theory1)   
@@ -44,23 +44,23 @@ This is summary of Deep Learning Book "Deep Learning with TensorFlow".
 ## 딥러닝 기초 코드(AI Basic Code with Python)   
 ##### 참고도서: [밑바닥부터 시작하는 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=11492334)   
 This is summary of Deep Learning Book "Deep Learning starting from the bottom" and code.   
-More details [click here](https://github.com/jaeyun95/AI-Study/blob/master/deeplearning/README.md).   
+More details [[click here]](https://github.com/jaeyun95/AI-Study/blob/master/deeplearning/README.md).   
 
 - - -
 ## 머신러닝 기초 코드(Machine Learning with Python)
 ##### 참고도서: [Introductioln to Machine Learning with Python](https://book.naver.com/bookdb/book_detail.nhn?bid=15048210)   
 This is summary of Deep Learning Book "Introductioln to Machine Learning with Python" and code.   
-More details [click here](https://github.com/jaeyun95/AI-Study/blob/master/machinelearning/README.md).   
+More details [[click here]](https://github.com/jaeyun95/AI-Study/blob/master/machinelearning/README.md).   
 
 
 - - -
 ## 텐서플로우(Tensorflow)
 ##### 참고도서: [골빈해커의 3분 딥러닝 텐서플로우맛](https://book.naver.com/bookdb/book_detail.nhn?bid=12556028)
 This is summary of Deep Learning Book "골빈해커의 3분 딥러닝 텐서플로우맛" and tensorflow code.   
-More details [click here](https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/README.md).   
+More details [[click here]](https://github.com/jaeyun95/AI-Study/blob/master/tensorflow/README.md).   
 
 - - -
 ## 파이토치(Pytorch)
 ##### 참고도서: [펭귄브로의 3분 딥러닝 파이토치맛](https://book.naver.com/bookdb/book_detail.nhn?bid=15559613)
 This is summary of Deep Learning Book "펭귄브로의 3분 딥러닝 파이토치맛" and pytorch code.   
-More details [click here](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/README.md).   
+More details [[click here]](https://github.com/jaeyun95/AI-Study/blob/master/pytorch/README.md).   
