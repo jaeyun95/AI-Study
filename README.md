@@ -44,7 +44,7 @@ This is summary of Deep Learning Book "Deep Learning with TensorFlow".
 ## 딥러닝 기초 코드(AI Basic Code with Python)   
 ##### 참고도서: [밑바닥부터 시작하는 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=11492334)   
 This is summary of Deep Learning Book "Deep Learning starting from the bottom" and code.   
-More details [click here](https://github.com/jaeyun95/AI-Study/blob/master/basic/README.md).   
+More details [click here](https://github.com/jaeyun95/AI-Study/blob/master/deeplearning/README.md).   
 
 - - -
 ## 머신러닝 기초 코드(Machine Learning with Python)
