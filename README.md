@@ -41,12 +41,6 @@ This is summary of Deep Learning Book "Deep Learning with TensorFlow".
 7. [Recurrent Neural Networks](https://blog.naver.com/jaeyoon_95/221189507772)
 
 - - -
-## 딥러닝 기초 코드(AI Basic Code with Python)   
-##### 참고도서: [밑바닥부터 시작하는 딥러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=11492334)   
-This is summary of Deep Learning Book "Deep Learning starting from the bottom" and code.   
-More details [[click here]](https://github.com/jaeyun95/AI-Study/blob/master/deeplearning/README.md).   
-
-- - -
 ## 머신러닝 기초 코드(Machine Learning with Python)
 ##### 참고도서: [Introductioln to Machine Learning with Python](https://book.naver.com/bookdb/book_detail.nhn?bid=15048210)   
 This is summary of Deep Learning Book "Introductioln to Machine Learning with Python" and code.   
