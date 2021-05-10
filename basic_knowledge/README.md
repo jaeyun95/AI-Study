@@ -16,4 +16,4 @@
 ## 인공지능 기본 지식 코드(AI Basic Knowledge)   
 
 1. [Optimizer 만들기]
-	- [Gradient Descent]()
+	- [Gradient Descent](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/gd.py)
