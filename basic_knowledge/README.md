@@ -19,3 +19,7 @@
 	- [Gradient Descent](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/gd.py)
 	- [Momentum](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/motentum.py)
 	- [Nesterov Accelerated Gradient](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/nag.py)
+	- [AdaGrad](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/adagrad.py)
+	- [RMSProp](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/rmsprop.py)
+	- [AdaDelta](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/adadelta.py)
+	- [Adam](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/adam.py)
