@@ -24,3 +24,14 @@
 	- [RMSProp](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/rmsprop.py)
 	- [AdaDelta](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/adadelta.py)
 	- [Adam](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/optimizer/adam.py)
+	
+2. [Activation Function 만들기]
+	- [Sigmoid Function](https://github.com/jaeyun95/AI-Study/tree/master/basic_knowledge/activation/sigmoid.py)
+	- [Tanh Function](https://github.com/jaeyun95/AI-Study/tree/master/basic_knowledge/activation/tanh.py)
+	- [ReLU](https://github.com/jaeyun95/AI-Study/tree/master/basic_knowledge/activation/relu.py)
+	- [Leaky ReLU](https://github.com/jaeyun95/AI-Study/tree/master/basic_knowledge/activation/leaky_relu.py)
+	- [ELU](https://github.com/jaeyun95/AI-Study/tree/master/basic_knowledge/activation/elu.py)
+	- [PReLU](https://github.com/jaeyun95/AI-Study/tree/master/basic_knowledge/activation/prelu.py)
+	
+3. [Basic Machine Learning Model 만들기]
+	- [KNN](https://github.com/jaeyun95/AI-Study/blob/master/basic_knowledge/models/knn.py)
