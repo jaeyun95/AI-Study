@@ -12,6 +12,12 @@
 3. [최적화 함수의 모든 것(2)](https://blog.naver.com/jaeyoon_95/222310985691)  
 4. [역전파의 모든 것](https://blog.naver.com/jaeyoon_95/222312189961)  
 5. [손실 함수의 모든것](https://blog.naver.com/jaeyoon_95/222347177887)  
+6. [normalization과 regularization 차이](https://blog.naver.com/jaeyoon_95/222349845121)  
+7. [K-Nearest Neighbors(K-NN, K-최근접 이웃 알고리즘)](https://blog.naver.com/jaeyoon_95/222356512046)  
+8. [선형 회귀, 신경망의 학습 과정](https://blog.naver.com/jaeyoon_95/222359283083)  
+9. [Regularization](https://blog.naver.com/jaeyoon_95/222360183603)  
+10. [Normalization](https://blog.naver.com/jaeyoon_95/222360436163)  
+11. [Overfitting, Underfitting](https://blog.naver.com/jaeyoon_95/222360556462)  
 
 - - -
 ## 인공지능 기본 지식 코드(AI Basic Knowledge)   
