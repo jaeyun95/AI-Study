@@ -18,6 +18,9 @@
 9. [Regularization](https://blog.naver.com/jaeyoon_95/222360183603)  
 10. [Normalization](https://blog.naver.com/jaeyoon_95/222360436163)  
 11. [Overfitting, Underfitting](https://blog.naver.com/jaeyoon_95/222360556462)  
+12. [Bayesian Classifier,Naive Bayesian Classifier(베이지안 분류기, 나이브 베이지안 분류기)](https://blog.naver.com/jaeyoon_95/222364191378)  
+13. [Decision Tree(결정 트리)](https://blog.naver.com/jaeyoon_95/222364521559)  
+14. [Ensemble(앙상블)](https://blog.naver.com/jaeyoon_95/222365107000)  
 
 - - -
 ## 인공지능 기본 지식 코드(AI Basic Knowledge)   
