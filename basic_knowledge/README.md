@@ -21,6 +21,9 @@
 12. [Bayesian Classifier,Naive Bayesian Classifier(베이지안 분류기, 나이브 베이지안 분류기)](https://blog.naver.com/jaeyoon_95/222364191378)  
 13. [Decision Tree(결정 트리)](https://blog.naver.com/jaeyoon_95/222364521559)  
 14. [Ensemble(앙상블)](https://blog.naver.com/jaeyoon_95/222365107000)  
+15. [Random Forest(랜덤 포레스트)](https://blog.naver.com/jaeyoon_95/222366160220)  
+16. [Support Vector Machines(SVM, 서포트 벡터 머신)](https://blog.naver.com/jaeyoon_95/222366389407)  
+17. [신경망](https://blog.naver.com/jaeyoon_95/222367176215)  
 
 - - -
 ## 인공지능 기본 지식 코드(AI Basic Knowledge)   
