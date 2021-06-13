@@ -26,6 +26,7 @@
 17. [신경망](https://blog.naver.com/jaeyoon_95/222367176215)  
 18. [K-Means(K-평균 클러스터링)](https://blog.naver.com/jaeyoon_95/222367687991)  
 19. [차원의 저주](https://blog.naver.com/jaeyoon_95/222383234989)  
+20. [결측치 처리](https://blog.naver.com/jaeyoon_95/222396943384)  
 
 - - -
 ## 인공지능 기본 지식 코드(AI Basic Knowledge)   
